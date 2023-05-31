@@ -1,0 +1,4 @@
+{
+    "symfony/http-client" : "",
+    "symfony/mailgun-mailer" : "" 
+}
